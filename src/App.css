@@ -1,0 +1,56 @@
+.App {
+  color: rgba(74, 74, 74, .97);
+  display: flex;
+  flex-direction: column;
+  font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
+  font-size: 14px;
+  min-height: 100vh;
+}
+
+h1 {
+  font-size: 28px;
+}
+
+h2 {
+  font-size: 18px;
+}
+
+.gutter-small-margin {
+  margin-left: 42px;
+  margin-right: 42px;
+}
+
+.gutter-small-padding {
+  padding-left: 42px;
+  padding-right: 42px;
+}
+
+.dark-blue-background {
+  background-color: #004E64;
+}
+
+.light-green-background {
+  background-color: #7AE582;
+}
+
+.logo-green-backgound {
+  background-color: #32CD81;
+}
+
+.mint-green-background {
+  background-color: rgba(57, 241, 151, .16);
+}
+
+.twitter-blue-background {
+  background-color: #00A5CF;
+}
+
+a {
+  /* .twitter-blue */
+  color: #00A5CF;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}

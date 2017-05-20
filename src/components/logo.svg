@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="57px" height="56px" viewBox="0 0 57 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>Recycle Nashville</title>
+    <desc>Created with Sketch by April Petry</desc>
+    <defs>
+        <polyline id="path-1" points="41.9702575 51.5186111 38.2495073 51.5474737 44.6980789 45.3792494 44.6980789 45.3792494 51.1466505 51.5474737 45.8862372 51.5205342"></polyline>
+    </defs>
+    <g id="About" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop" transform="translate(-42.000000, -21.000000)">
+            <g id="Navigation" transform="translate(42.000000, 21.000000)">
+                <g id="Header-Logo">
+                    <g id="Icon">
+                        <path d="M30.2466293,54 C43.6376729,54 54.4932586,43.1837017 54.4932586,29.8411215 C54.4932586,16.4985413 43.6376729,5.68224299 30.2466293,5.68224299 C29.2857376,5.68224299 28.3379009,5.73793574 27.4061932,5.84625833 C15.3535675,7.24752574 6,17.4559555 6,29.8411215 C6,43.1837017 16.8555857,54 30.2466293,54 Z" id="Oval" fill="#9B9B9B"></path>
+                        <ellipse id="Oval---Outline" stroke="#2ECD83" stroke-width="4" cx="30.2466293" cy="29.8411215" rx="24.2466293" ry="24.1588785"></ellipse>
+                        <polygon id="Star-bottom" fill="#FFFFFF" transform="translate(22.058126, 19.226292) rotate(-6.000000) translate(-22.058126, -19.226292) " points="22.0581264 24.9098102 15.2434728 29.6750128 17.6860673 21.7448194 11.0317853 16.7596831 19.3560453 16.6237566 22.0581264 8.77757029 24.7602075 16.6237566 33.0844674 16.7596831 26.4301855 21.7448194 28.8727799 29.6750128"></polygon>
+                        <polygon id="Star-right" fill="#FFFFFF" transform="translate(26.599453, 40.898195) rotate(17.000000) translate(-26.599453, -40.898195) " points="26.5994528 46.5817136 19.7847993 51.3469162 22.2273938 43.4167228 15.5731118 38.4315865 23.8973717 38.29566 26.5994528 30.4494737 29.301534 38.29566 37.6257939 38.4315865 30.9715119 43.4167228 33.4141064 51.3469162"></polygon>
+                        <polygon id="Star-left/top" fill="#FFFFFF" transform="translate(43.162976, 25.774023) rotate(40.000000) translate(-43.162976, -25.774023) " points="43.1629759 31.4575419 36.3483223 36.2227445 38.7909168 28.2925511 32.1366348 23.3074148 40.4608947 23.1714883 43.1629759 15.325302 45.865057 23.1714883 54.1893169 23.3074148 47.5350349 28.2925511 49.9776294 36.2227445"></polygon>
+                        <polyline id="Triangle-2" stroke="#20AB5E" fill="#32CD81" points="4.23460962 32.8504673 0 32.8504673 6.44857162 26.682243 6.44857162 26.682243 12.8971432 32.8504673 8.25640641 32.8504673"></polyline>
+                        <polyline id="Triangle-2" stroke="#1CAB60" fill="#2ECD83" transform="translate(40.157040, 7.568397) rotate(100.000000) translate(-40.157040, -7.568397) " points="37.8790749 10.6525089 34.3049811 10.6525089 33.7084686 10.6525089 40.1570403 4.48428462 40.1570403 4.48428462 46.6056119 10.6525089 41.769831 10.6525089"></polyline>
+                        <rect id="Rectangle" x="23" y="2" width="17" height="8"></rect>
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <use id="Triangle-2" stroke="#1CAB60" fill="#32CD81" transform="translate(44.698079, 48.463362) rotate(-134.000000) translate(-44.698079, -48.463362) " xlink:href="#path-1"></use>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

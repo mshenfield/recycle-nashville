@@ -1,0 +1,18 @@
+.Footer {
+  box-sizing: border-box;
+  display: flex;
+  justify-content: space-between;
+  opacity: .87;
+  padding-bottom: 7px;
+  padding-top: 7px;
+  width: 100%;
+}
+
+.Footer a {
+  /* Reset to default text color instead of link color */
+  color: currentcolor;
+}
+
+.Footer__lastupdated {
+  font-style: italic;
+}
